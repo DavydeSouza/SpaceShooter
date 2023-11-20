@@ -1,2 +1,0 @@
-# SpaceShooter
-Joguinho de Navinha
